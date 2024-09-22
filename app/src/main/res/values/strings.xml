@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">calculator_app</string>
+    <string name="title_string">Calculator</string>
+    <string name="sub_operation">-</string>
+    <string name="mul_operation">*</string>
+    <string name="div_operation">/</string>
+    <string name="num2_hint">Enter the second number</string>
+    <string name="num1_hint">Enter the first number</string>
+    <string name="add_operation">+</string>
+    <string name="result">Result: </string>
 </resources>
